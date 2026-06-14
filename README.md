@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Harikaran
 
-<!--
-**harikaran247/harikaran247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🤖 AI Enthusiast | 🧩 Problem Solver
 
-Here are some ideas to get you started:
+🚀 Building scalable web and mobile applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Software Development • System Design • Competitive Programming • AI
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,django,firebase,mongodb,git,github" />
+</p>
+
+---
+
+⭐ Learning. Building. Solving.
