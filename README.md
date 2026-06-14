@@ -9,8 +9,6 @@
 
 ---
 
-⚡ Code • Learn • Build • Repeat ⚡
-
 <br/>
 
 <a href="https://git.io/typing-svg">
